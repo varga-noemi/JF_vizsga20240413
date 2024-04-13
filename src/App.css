@@ -1,0 +1,11 @@
+body{
+    box-sizing: border-box;
+    background-color: #eef2ff;
+}
+nav img{
+    width: 25px;
+    border:1px solid #3730a3;
+    padding: 5px;
+    border-radius: 5px;
+   
+}
